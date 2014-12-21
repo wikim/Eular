@@ -1,11 +1,2 @@
-wikim 1
-<<<<<<< HEAD
-z510kkk
-
-·ÎÄÃ¿¡¼±
-=======
-z510kkk44
-
-ì§ì ‘ ìˆ˜ì •ã„´
->>>>>>> b97f6122171e369c359351bce8d85b3edd9be85c
-local1
+local1 - change line
+local2 - file change
